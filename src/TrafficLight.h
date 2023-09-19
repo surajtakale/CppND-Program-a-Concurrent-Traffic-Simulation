@@ -11,7 +11,6 @@
 #include <chrono>
 
 enum TrafficLightPhase { red, green };
-template <class T>
 
     
 class Vehicle;
